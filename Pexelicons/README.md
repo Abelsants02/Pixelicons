@@ -47,7 +47,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
-- Para dúvidas, entre em contato com infovinodjangid@gmail.com
+- Para dúvidas, entre em contato com abelsouza2002@gmail.com
 
 ---
 
