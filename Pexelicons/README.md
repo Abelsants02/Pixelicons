@@ -1,6 +1,6 @@
 # <a href="https://abel.github.io/Pexelicons" target="_blank">Pexelicons</a>
 
-![Logotipo Pexelicons](assets/images/Websitescreenshot.png)
+![Logotipo Pexelicons](assets/images/im.png)
 
 Pexelicons é um site que oferece ícones de pastas personalizados para Windows, permitindo aos usuários personalizar seu PC alterando os ícones de pasta padrão para corresponder às suas preferências de estilo.
 
