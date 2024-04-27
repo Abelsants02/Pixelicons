@@ -1,4 +1,4 @@
-# <a href="https://abel.github.io/Pexelicons" target="_blank">Pexelicons</a>
+# <a href="https://pixelicons.netlify.app/" target="_blank">Pexelicons</a>
 
 ![Logotipo Pexelicons](assets/images/im.png)
 
@@ -23,7 +23,7 @@ Pexelicons é um site que oferece ícones de pastas personalizados para Windows,
 
 ### Baixar ícones
 
-Visite o [site Pexelicons](https://.github.io/Pexelicons) para baixar ícones de pastas personalizados para o seu PC.
+Visite o [site Pexelicons](https://pixelicons.netlify.app/) para baixar ícones de pastas personalizados para o seu PC.
 
 ### Como usar
 
@@ -51,4 +51,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-<p align="center">Projetado e construído por <a href="https://github.com/">@Programador_Shark</a> | &cópia de; @abelsants02</p>
+<p align="center">Projetado e construído por <a href="https://github.com/Abelsants02/Pixelicons">@Programador_Shark</a> | &cópia de; @abelsants02</p>
